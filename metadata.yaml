@@ -1,0 +1,39 @@
+_repo: English-as-she-is-spokeor-A-jest-in-sober-earnest_30411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fonseca, José da
+    alias: Fonseca, Jose da
+    birthdate: 1788
+    deathdate: 1866
+    gutenberg_agent_id: '34593'
+    url: http://www.gutenberg.org/2009/agents/34593
+  - agent_name: Carolino, Pedro
+    gutenberg_agent_id: '34594'
+    url: http://www.gutenberg.org/2009/agents/34594
+description: 'In 1855, when Jose da Fonseca and Pedro Carolino wrote an English phrasebook
+  for Portuguese students, they faced just one problem: they didn''t know any English.
+  Even worse, they didn''t own an English-to-Portuguese dictionary. What they did
+  have, though, was a Portuguese-to-French dictionary, and a French-to-English dictionary.
+  The linguistic train wreck that ensued is a classic of unintentional humor, now
+  revived in the first newly selected edition in a century. Armed with Fonseca and
+  Carolino''s guide, a Portuguese traveler can insult a barber (""What news tell me?
+  All hairs dresser are newsmo.'
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Errors and blunders, Literary'
+- !lcc 'PN'
+- !lcsh 'English language -- Conversation and phrase books -- Portuguese'
+title: English as she is spoke; or, a jest in sober earnest
+url: http://www.gutenberg.org/ebooks/30411
