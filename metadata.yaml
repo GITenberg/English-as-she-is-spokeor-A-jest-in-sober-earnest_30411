@@ -22,6 +22,8 @@ description: 'In 1855, when Jose da Fonseca and Pedro Carolino wrote an English 
   revived in the first newly selected edition in a century. Armed with Fonseca and
   Carolino''s guide, a Portuguese traveler can insult a barber (""What news tell me?
   All hairs dresser are newsmo.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30411#English-as-she-is-spokeor-A-jest-in-sober-earnest
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2009-11-07'
 gutenberg_type: Text
